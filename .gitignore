@@ -1,0 +1,7 @@
+.venv/
+migrations/
+__pycache__/
+
+.env
+VS_code
+
