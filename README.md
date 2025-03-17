@@ -29,10 +29,8 @@ Avant de commencer, assurez-vous que les outils suivants sont installés sur vot
     docker-compose up --build -d
     ```
     Cela va :
-
-        - Construire l'image du backend Flask à l'aide du Dockerfile.
-        
-        - Démarrer le conteneur Flask et tous les autres services définis dans le docker-compose.yml.
+    - Construire l'image du backend Flask à l'aide du Dockerfile.
+    - Démarrer le conteneur Flask et tous les autres services définis dans le docker-compose.yml.
 
 3. **Accéder à l'application:**
     
